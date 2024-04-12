@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-def upload_file_and_finetune(file_path, model_name, api_key='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'):
+def upload_file_and_finetune(file_path, model_name, api_key='xxxxxxxxxxxxxxxxxxx'):
     """
     Simplified version to upload a .jsonl file to OpenAI and create a fine-tuning job.
 
